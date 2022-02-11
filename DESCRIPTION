@@ -1,7 +1,7 @@
 Package: niaidMI
 Title: Markov Model Multiple Imputation for NIAID OS
-Version: 1.0.0
-Date: 2021-10-08
+Version: 1.1.0
+Date: 2022-02-11
 Authors@R: c(
   person(
     family = "Morris",
@@ -23,12 +23,12 @@ Depends: R (>= 3.5.0)
 Suggests: testthat
 Imports: Rcpp (>= 1.0.3)
 LinkingTo: Rcpp
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 NeedsCompilation: yes
-Packaged: 2021-10-08 14:59:35 UTC; c300194
+Packaged: 2022-02-11 18:54:17 UTC; c300194
 Author: Nathan Morris [aut, cre],
   Chaoran Hu [aut],
   Eli Lilly and Company [cph]
 Maintainer: Nathan Morris <morris_nathan@lilly.com>
 Repository: CRAN
-Date/Publication: 2021-10-11 07:50:10 UTC
+Date/Publication: 2022-02-11 19:20:02 UTC

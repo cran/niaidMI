@@ -1,3 +1,9 @@
+# CHANGES IN niaidMI VERSION 1.1.0
+
+## MAJOR CHANGES
+
+* Added `impute_ref ` function to allow reference based imputation (copy reference). Reference based imputation usually is for sensitivity analysis purpose.
+
 # CHANGES IN niaidMI VERSION 1.0.0
 
 ## MAJOR CHANGES
